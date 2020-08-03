@@ -12,6 +12,6 @@
 
 ## Connect With Me
 
-- Personal Website : <a href="sriharsh.me">sriharsh.me</a>
+- Personal Website : <a href="https://sriharsh.me">sriharsh.me</a>
 - LinkedIn : <a href="https://www.linkedin.com/in/sriharsh-aditya-03400416b/">linkedin.com/sriharsh-aditya</a>
 - Instagram : <a href="https://www.instagram.com/sriharsh.aditya/">@sriharsh.aditya</a>
