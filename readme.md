@@ -13,7 +13,7 @@
 - I had to simultaneously maintain good coding standards and write production level code.
 - In another world I'm a cinephile who writes movie blogs.
 
---- Javascript C++ Shell-Scripting Golang Node.JS Express.JS Gin MongoDB Mongoose Rest-APIs Git GNU/Linux ---
+--- Javascript | C++ | Shell-Scripting | Golang | Node.JS | Express.JS | Gin | MongoDB | Mongoose | Rest-APIs | Git | GNU/Linux ---
 
 ## Connect With Me
 
