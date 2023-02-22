@@ -13,10 +13,10 @@
 - I had to simultaneously maintain good coding standards and write production level code.
 - In another world I'm a cinephile who writes movie blogs.
 
---- Javascript | C++ | Shell-Scripting | Golang | Node.JS | Express.JS | Gin | MongoDB | Mongoose | Rest-APIs | Git | GNU/Linux ---
+--- Swift | Javascript | C++ | Shell-Scripting | Golang | Node.JS | Express.JS | Gin | MongoDB | Mongoose | Rest-APIs | Git | GNU/Linux ---
 
 ## Connect With Me
 
-- Personal Website : <a href="https://sriharsh.me">sriharsh.me</a>
+- Personal Website : <a href="https://aditya24101998.github.io">aditya24101998.github.io</a>
 - LinkedIn : <a href="https://www.linkedin.com/in/sriharsh-aditya-03400416b/">linkedin.com/sriharsh-aditya</a>
-- Instagram : <a href="https://www.instagram.com/sriharsh.aditya/">@sriharsh.aditya</a>
+- Instagram : <a href="https://www.instagram.com/cinematicpiegon/">@cinematicpiegon</a>
