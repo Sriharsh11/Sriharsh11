@@ -1,7 +1,7 @@
 ## Hi, I'm Sriharsh :wave:
 
 <p align="center">
-<a href="https://sriharsh11.github.io"><img src="https://raw.githubusercontent.com/Sriharsh11/Sriharsh11/master/github-profile.png"></a>
+<a href="https://sriharsh11.github.io"><img src="https://github.com/Sriharsh11/Sriharsh11/blob/master/github-profile.png"></a>
 </p>
 
 ## About
